@@ -1,0 +1,5 @@
+node_modules/
+urls.db
+urls.db-journal
+.DS_Store
+.env
